@@ -16,10 +16,13 @@ You will need to:
 
 ### Files
 
-[Closing Prices Starter Notebook](lstm_stock_predictor_closing.ipynb)
+[Closing Prices Notebook](lstm_stock_predictor_closing.ipynb)
 
-[FNG Starter Notebook](lstm_stock_predictor_fng.ipynb)
+[FNG Notebook](lstm_stock_predictor_fng.ipynb)
 
+[Closing Prices Notebook HTML](lstm_stock_predictor_closing.html)
+
+[FNG Notebook HTML](lstm_stock_predictor_fng.html)
 - - -
 
 ## Instructions
