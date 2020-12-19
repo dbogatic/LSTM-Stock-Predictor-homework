@@ -20,9 +20,9 @@ You will need to:
 
 [FNG Notebook](lstm_stock_predictor_fng.ipynb)
 
-[Closing Prices Notebook HTML](lstm_stock_predictor_closing.html)
+[Closing Prices Notebook HTML](https://dbogatic.github.io/LSTM-Stock-Predictor-homework/lstm_stock_predictor_closing.html)
 
-[FNG Notebook HTML](lstm_stock_predictor_fng.html)
+[FNG Notebook HTML](https://dbogatic.github.io/LSTM-Stock-Predictor-homework/lstm_stock_predictor_fng.html)
 - - -
 
 ## Instructions
